@@ -1,27 +1,35 @@
 const puppeteer = require('puppeteer');
-  const nodemailer = require("nodemailer");
+const nodemailer = require("nodemailer");
+require('dotenv').config()
 
+const user = process.env.AWS_USER
+const pass = process.env.AWS_PASS
 
 async function email() {
   // Generate test SMTP service account from ethereal.email
   // Only needed if you don't have a real mail account for testing
-  let testAccount = await nodemailer.createTestAccount();
+//   let testAccount = await nodemailer.createTestAccount();
 
   // create reusable transporter object using the default SMTP transport
+  console.log(1)
   let transporter = nodemailer.createTransport({
-    host: "smtp.ethereal.email",
-    port: 587,
-    secure: false, // true for 465, false for other ports
+    host: 'email-smtp.us-east-1.amazonaws.com',
+    port: 465,
+    secure: true, // true for 465, false for other ports
     auth: {
-      user: testAccount.user, // generated ethereal user
-      pass: testAccount.pass // generated ethereal password
+      user,
+      pass
+    },
+    tls: {
+        ciphers: 'SSLv3',
     }
   });
 
+  console.log(2)
   // send mail with defined transport object
   let info = await transporter.sendMail({
-    from: '"test777" <winston@hotmail.com>', // sender address
-    to: "bbyunis@gmail.com", // list of receivers
+    from: '"Brace Gudnis" <bryan@bryanyunis.com>', // sender address
+    to: "bryan@bryanyunis.com", // list of receivers
     subject: "Tickets Available", // Subject line
     text: "There is a ticket available!", // plain text body
   });
@@ -40,14 +48,14 @@ async function email() {
     await page.goto('https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006');
 
     const boletas = await page.evaluate(() => {
-        const desiredSchedules = ['288831', '288832', '288833'];
+        const desiredSchedules = ['288831', '288832', '288833']
         const listings = Array.from(document.querySelectorAll('.js-timeslot > a'))
         const html=[]
         let tickets = false
         listings.forEach(item => {
             const scheduleId = item.getAttribute('data-schedule');
             if (desiredSchedules.includes(scheduleId)) {
-                if (item.innerHTML.includes('Sold Out')) {
+                if (!item.innerHTML.includes('Sold Out')) {
                     tickets = true;
                 }
             }
@@ -55,7 +63,7 @@ async function email() {
         return tickets
     })
     if (boletas === true) {
-        email()
+        email().catch(console.error)
     }
     await browser.close();
   })();
