@@ -1,0 +1,23 @@
+{
+  "name": "monet-scraper",
+  "version": "1.0.0",
+  "description": "A lightweight scraper to check availability of tickets for a local Monet exhibit.",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bry-an/monet-scrape.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bry-an/monet-scrape/issues"
+  },
+  "homepage": "https://github.com/bry-an/monet-scrape#readme"
+}
