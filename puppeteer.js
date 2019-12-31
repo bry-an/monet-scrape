@@ -42,7 +42,7 @@ async function email() {
   // Preview URL: https://ethereal.email/message/WaQKMgKddxQDoou...
 }
 
-(async () => {
+setInterval(async () => {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
     await page.goto('https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006');
@@ -64,7 +64,9 @@ async function email() {
     })
     if (boletas === true) {
         email().catch(console.error)
+    } else {
+        console.log('No tickets available ☹️')
     }
     await browser.close();
-  })();
+  }, 30 * 1000)
 
