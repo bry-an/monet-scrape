@@ -1,0 +1,2277 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_ctl00_PageHead"><title>
+	Claude Monet: The Truth of Nature Calendar - Denver Art Museum
+</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/client/css/Custom.css" rel="stylesheet" type="text/css" media="all" /> 
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/client/css/CustomPrint.css" rel="stylesheet" type="text/css" media="print" /> 
+
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/reset.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/base.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/print.css" rel="stylesheet" type="text/css" media="print" />
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/jquery-ui-1.9.2.custom.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/prettyPhoto.css" rel="stylesheet" type="text/css" media="all" />
+
+    <link href="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/css/site.css?v=v3.4.1.0" rel="stylesheet" type="text/css" media="all" />
+   
+
+    
+  
+
+
+<link rel="shortcut icon" href="/client/img/favicon_1.ico" type="image/vnd.microsoft.icon" />
+
+<script src="//use.typekit.net/yxx0xvv.js"></script>
+<script>try { Typekit.load(); } catch (e) { console.log(e); }</script>
+
+<!--[if lt IE 9]>  <style type="text/css" media="all">@import url("/client/css/damresponsive-ie.css");</style> <![endif]-->
+
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+ <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+
+    
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.query.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.jcarousellite.js"></script> 
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.numeric.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.scrollTo-min.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/atms.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/atms.responsive.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.truncator.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/atms.online.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/atms.seating.js"></script>
+    <script type="text/javascript" src="https://atms.azureedge.net/atmsonline/dam/v3.4/atms/js/jquery.prettyPhoto.min.js"></script>
+    
+
+
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments);
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+      m.parentNode.insertBefore(a, m);
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-355057-25', 'auto');
+	
+	ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+    ga('require', 'ecommerce');
+
+  </script>
+
+</head>
+<body> 
+
+
+
+
+<div class="background">
+    <section id="page-container" class="page-container clearfix">
+      <header class="site-head group">
+        <div class="site-logo group"><a href="http://denverartmuseum.org/" title="Home Page">Home Page</a></div>
+        <nav class="site-menu group">
+          <div class="site-menu-container">
+            <nav class="site-menu-item group">
+              <header class="site-menu-item-title"><a class="menu-header" href="https://tickets.denverartmuseum.org/">Ticketing Home</a></header>
+            </nav>
+            <nav class="site-menu-item group">
+              <header class="site-menu-item-title"><a class="menu-header" href="http://denverartmuseum.org">Museum Home</a></header>
+            </nav>
+          </div>
+        </nav>
+      </header>
+      <section class="page-content group">
+        <div class="col-full content-body group">
+
+<div id="ATMSContainer" class="">
+
+    
+  <div class="minimizedPalettes">
+    <nav class="navigation">
+      <div class="nav-items">
+        <a href="/Default.aspx">
+          <span class="nav-item">
+            <i class="nav-icon icon-home">&nbsp;</i>
+            <span class="nav-label">Home</span>
+          </span>
+        </a>
+        <a href="/OrderSummary.aspx">
+          <span class="nav-item">
+            <span id="div_minimizedShoppingCartTotal"></span>
+            <span id="div_minimizedShoppingCartTimer"></span>
+            <i class="nav-icon icon-cart">&nbsp;</i>
+            <span class="nav-label">Cart</span>
+          </span>
+        </a>
+
+        <div id="nav-search">
+          <div class="nav-item">
+            <i class="nav-icon icon-search">&nbsp;</i>
+            <div class="nav-label">Search</div>
+          </div>
+        </div>
+
+      
+        <a href="/SignIn.aspx">
+          <span class="nav-item">
+            <i class="nav-icon icon-user">&nbsp;</i>
+            <span class="nav-label">Sign In</span>
+          </span>
+        </a>
+      
+
+      </div>
+    </nav>
+  </div>
+  
+  <div class="ClientMobileContent">
+    <div class="search-container">
+      <form action="/Default.aspx" class="search-form" method="get">
+        <input name="q" type="text" placeholder="search" value="" />
+      </form>
+    </div>
+	</div>
+
+	
+  <div id="RightSide" class="twocolumn">     
+    <form method="get">
+      
+    <div id="Account">
+        <a id="login-register" href="/SignIn.aspx?ReturnUrl=https%3a%2f%2ftickets.denverartmuseum.org%2fDateSelection.aspx%3fitem%3d2006" title="Log in to an existing account, look up your membership, or register a new account.">
+          <strong>
+            <span>Log In Or Register An Account</span>
+          </strong>
+        </a>
+    </div>
+
+
+
+<div id="google_translate_element"></div><script type="text/javascript">
+                                                  function googleTranslateElementInit() {
+                                                    new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, gaTrack: true, gaId: 'UA-24843208-5' }, 'google_translate_element');
+                                                  }
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+
+      
+      
+
+<div id="Cart">
+  <h2>Your Order</h2>
+  <p class="Amount">
+    $0.00
+  </p>
+  <p class="AmountText">
+    Order Total
+  </p>
+  
+    <p class="details">
+      There are currently no items in your order.
+    </p>
+  
+</div>
+
+      
+
+    </form>
+  </div>
+
+  
+  <div id="LeftSide">
+	  
+  
+  <div id="BreadCrumbs">
+    <ol>
+      
+          <li class="Odd C0">
+            <a href="/Default.aspx" title="Sales Home">Sales Home</a>
+          </li>
+      
+          <li class="Here C1">
+            Select Date/Time
+          </li>
+      
+    </ol>
+  </div>
+
+  <h1>Select Date/Time</h1>
+  
+
+<div class="EventInfo">
+  <div class="EventInfoLeft">
+    <div class="Image">
+      <img src="/image.axd?item=2006&w=90&h=90" />
+    </div>
+  </div>
+  <div class="EventInfoRight">
+    <h2>Claude Monet: The Truth of Nature</h2>
+    <div class="ItemDetails">
+        
+
+<ul class="SocialIcons">
+  <li id="Facebook-Icon">
+    <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://tickets.denverartmuseum.org/Selection.aspx?item=2006&t=Purchased%20Claude%20Monet:%20The%20Truth%20of%20Nature" title="Share on Facebook">
+      <img src="atms/img/social_media/facebook.png" alt="Share on Facebook"/>
+    </a>
+  </li>
+  <li id="GooglePlus-Icon">
+    <a target="_blank" href="https://plusone.google.com/share?url=https://tickets.denverartmuseum.org/Selection.aspx?item=2006" title="Share on Google+">
+      <img src="atms/img/social_media/gplus.png" alt="Share on Google+"/>
+    </a>
+  </li>
+  <li id="Twitter-Icon" class="last">
+    <a target="_blank" href="https://twitter.com/intent/tweet?text=Purchased%20Claude%20Monet:%20The%20Truth%20of%20Nature&url=https://tickets.denverartmuseum.org/Selection.aspx?item=2006" title="Share on Twitter">
+      <img src="atms/img/social_media/twitter_blue.png" alt="Share on Twitter"/>
+    </a>
+  </li>
+</ul>
+        
+        <div class="Description">
+          <p><p>  <span style="font-family:">See <i>Claude Monet: The Truth of Nature</i>, featuring  more than 120 paintings spanning Monet's entire career. The monumental exhibition  will focus on the celebrated French impressionist artist's enduring relationship  with nature and his response to the varied and distinct places in which he worked.  Denver will be the only North American destination for this exhibition. Your ticket  to Monet includes general admission. </span></p><p>  &nbsp;</p><ul>  <li>    <span style="font-family:">For tickets to <i>Monet Member Tours</i>, please click    <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2090">here</a>.</span>  </li>  <li>    <span style="font-family:">For tickets to <i>Monet Member Mornings</i>, please    click <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2088">here</a>.</span>  </li>  <li>    <span style="font-family:">For tickets to <i>Monet Member Evenings</i>, please    click <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2096">here</a></span>  </li></ul><p>  &nbsp;</p> </p>
+        </div>
+        
+        
+
+        <div class="clear"></div>
+    </div>
+    
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.Description').truncate({ max_length: 256 });
+
+        $("a[rel^='gallery']").prettyPhoto({
+            slideshow: false,
+            autoplay_slideshow: false,
+            opacity: 0.80,
+            show_title: true,
+            allow_resize: true,
+            default_width: 500,
+            default_height: 350,
+            counter_separator_label: " of ",
+            theme: "pp_default",
+            autoplay: true,
+            modal: false,
+            overlay_gallery: false,
+            deeplinking: false,
+            social_tools: ''
+        });
+    });
+</script>
+        
+  
+
+<script type="text/javascript">
+  $(document).ready(function () {
+
+    $("#WeekView p").tooltip({
+      track: true,
+      items: "a.ShowTooltip",
+      content: function () {
+        var $details = $(this).siblings(".schedule-details");
+        if ($details.html()) {
+          return $details.html();
+        }
+        return "";
+      }
+    });
+
+    $("#CalendarLoading").ajaxStart(function () {
+      var container = $("#CalendarContainer");
+      container.empty();
+      container.append($(this));
+      $(this).show();
+    });
+
+    AtmsOnline.Seating.initPreviews();
+
+  });
+</script>
+
+<div id="CalendarSelection">
+  <div id="CalendarMenu">
+    <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&v=Day" class="" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&v=Day'); return false;">Day</a>
+    <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&v=Week" class="" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&v=Week'); return false;">Week</a>
+    <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&v=Month" class="selected" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&v=Month'); return false;">Month</a>
+    <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&v=All" class="" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&v=All'); return false;">All</a>
+  </div>
+  <div id="CalendarLoading">
+    <img src="atms/img/loading.gif" alt="Loading..." />
+  </div>
+  
+  
+  
+<div id="CalendarContainer">
+    <div class="SwitchDate">
+      
+        <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&year=2019&month=12" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2019&month=12'); return false;" class="selected" style="">
+            December 2019
+        </a>
+      
+        <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&year=2020&month=1" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=1'); return false;" class="" style="">
+            January 2020
+        </a>
+      
+        <a href="https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006&year=2020&month=2" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=2'); return false;" class="" style="">
+            February 2020
+        </a>
+      
+    </div>
+    <div id="WeekView">
+        
+        <div class="DaysOfWeek">
+            <div>Sunday</div><div>Monday</div><div>Tuesday</div><div>Wednesday</div><div>Thursday</div><div>Friday</div><div>Saturday</div>
+        </div>
+        <div class="Weeks">
+          
+            <div class="Week">
+                <div class="Day">
+                    <div class="Date " id="Sunday December 29">
+                         29
+                    </div>
+                    
+                    <p class="none">&nbsp;</p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date " id="Monday December 30">
+                         30
+                    </div>
+                    
+                    <p class="none">&nbsp;</p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date " id="Tuesday December 31">
+                         31
+                    </div>
+                    
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288723" class=" ShowTooltip SoldOut js-select-date" data-schedule="288723" data-scheduleDate="Tuesday December 31, 2019 - 9:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288724" class=" ShowTooltip SoldOut js-select-date" data-schedule="288724" data-scheduleDate="Tuesday December 31, 2019 - 9:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288725" class=" ShowTooltip SoldOut js-select-date" data-schedule="288725" data-scheduleDate="Tuesday December 31, 2019 - 9:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288726" class=" ShowTooltip SoldOut js-select-date" data-schedule="288726" data-scheduleDate="Tuesday December 31, 2019 - 9:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273916" class=" ShowTooltip SoldOut js-select-date" data-schedule="273916" data-scheduleDate="Tuesday December 31, 2019 - 10:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273917" class=" ShowTooltip SoldOut js-select-date" data-schedule="273917" data-scheduleDate="Tuesday December 31, 2019 - 10:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273918" class=" ShowTooltip SoldOut js-select-date" data-schedule="273918" data-scheduleDate="Tuesday December 31, 2019 - 10:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273919" class=" ShowTooltip SoldOut js-select-date" data-schedule="273919" data-scheduleDate="Tuesday December 31, 2019 - 10:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273920" class=" ShowTooltip SoldOut js-select-date" data-schedule="273920" data-scheduleDate="Tuesday December 31, 2019 - 11:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273921" class=" ShowTooltip SoldOut js-select-date" data-schedule="273921" data-scheduleDate="Tuesday December 31, 2019 - 11:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273922" class=" ShowTooltip SoldOut js-select-date" data-schedule="273922" data-scheduleDate="Tuesday December 31, 2019 - 11:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273923" class=" ShowTooltip SoldOut js-select-date" data-schedule="273923" data-scheduleDate="Tuesday December 31, 2019 - 11:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273924" class=" ShowTooltip SoldOut js-select-date" data-schedule="273924" data-scheduleDate="Tuesday December 31, 2019 - 12:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273925" class=" ShowTooltip SoldOut js-select-date" data-schedule="273925" data-scheduleDate="Tuesday December 31, 2019 - 12:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273926" class=" ShowTooltip SoldOut js-select-date" data-schedule="273926" data-scheduleDate="Tuesday December 31, 2019 - 12:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273927" class=" ShowTooltip SoldOut js-select-date" data-schedule="273927" data-scheduleDate="Tuesday December 31, 2019 - 12:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273928" class=" ShowTooltip SoldOut js-select-date" data-schedule="273928" data-scheduleDate="Tuesday December 31, 2019 - 1:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273929" class=" ShowTooltip SoldOut js-select-date" data-schedule="273929" data-scheduleDate="Tuesday December 31, 2019 - 1:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273930" class=" ShowTooltip SoldOut js-select-date" data-schedule="273930" data-scheduleDate="Tuesday December 31, 2019 - 1:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273931" class=" ShowTooltip SoldOut js-select-date" data-schedule="273931" data-scheduleDate="Tuesday December 31, 2019 - 1:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273932" class=" ShowTooltip SoldOut js-select-date" data-schedule="273932" data-scheduleDate="Tuesday December 31, 2019 - 2:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273933" class=" ShowTooltip SoldOut js-select-date" data-schedule="273933" data-scheduleDate="Tuesday December 31, 2019 - 2:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273934" class=" ShowTooltip SoldOut js-select-date" data-schedule="273934" data-scheduleDate="Tuesday December 31, 2019 - 2:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273935" class=" ShowTooltip SoldOut js-select-date" data-schedule="273935" data-scheduleDate="Tuesday December 31, 2019 - 2:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273936" class=" ShowTooltip SoldOut js-select-date" data-schedule="273936" data-scheduleDate="Tuesday December 31, 2019 - 3:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281197" class=" ShowTooltip SoldOut js-select-date" data-schedule="281197" data-scheduleDate="Tuesday December 31, 2019 - 3:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281456" class=" ShowTooltip SoldOut js-select-date" data-schedule="281456" data-scheduleDate="Tuesday December 31, 2019 - 3:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:30 PM
+                                </span>
+                            </p>
+                       
+                    <p class="more"  style="display:none;"  data-date="December 31, 2019">
+                        <a href="/DateSelection.aspx?item=2006&v=Day&day=31&month=12&year=2019" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2019&month=12&day=31&v=Day'); return false;">See All Available</a>
+                        <span class="schedule-details" style="display: none;">
+                            View all available times for Tuesday December 31
+                        </span>
+                    </p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date OtherMonth" id="Wednesday January 1">
+                         1
+                    </div>
+                    
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280043" class=" ShowTooltip SoldOut js-select-date" data-schedule="280043" data-scheduleDate="Wednesday January 1, 2020 - 9:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280044" class=" ShowTooltip SoldOut js-select-date" data-schedule="280044" data-scheduleDate="Wednesday January 1, 2020 - 9:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280045" class=" ShowTooltip SoldOut js-select-date" data-schedule="280045" data-scheduleDate="Wednesday January 1, 2020 - 9:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280047" class=" ShowTooltip SoldOut js-select-date" data-schedule="280047" data-scheduleDate="Wednesday January 1, 2020 - 9:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273937" class=" ShowTooltip SoldOut js-select-date" data-schedule="273937" data-scheduleDate="Wednesday January 1, 2020 - 10:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273938" class=" ShowTooltip SoldOut js-select-date" data-schedule="273938" data-scheduleDate="Wednesday January 1, 2020 - 10:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273939" class=" ShowTooltip SoldOut js-select-date" data-schedule="273939" data-scheduleDate="Wednesday January 1, 2020 - 10:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273940" class=" ShowTooltip SoldOut js-select-date" data-schedule="273940" data-scheduleDate="Wednesday January 1, 2020 - 10:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273941" class=" ShowTooltip SoldOut js-select-date" data-schedule="273941" data-scheduleDate="Wednesday January 1, 2020 - 11:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273942" class=" ShowTooltip SoldOut js-select-date" data-schedule="273942" data-scheduleDate="Wednesday January 1, 2020 - 11:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273943" class=" ShowTooltip SoldOut js-select-date" data-schedule="273943" data-scheduleDate="Wednesday January 1, 2020 - 11:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273944" class=" ShowTooltip SoldOut js-select-date" data-schedule="273944" data-scheduleDate="Wednesday January 1, 2020 - 11:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273945" class=" ShowTooltip SoldOut js-select-date" data-schedule="273945" data-scheduleDate="Wednesday January 1, 2020 - 12:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273946" class=" ShowTooltip SoldOut js-select-date" data-schedule="273946" data-scheduleDate="Wednesday January 1, 2020 - 12:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273947" class=" ShowTooltip SoldOut js-select-date" data-schedule="273947" data-scheduleDate="Wednesday January 1, 2020 - 12:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273948" class=" ShowTooltip SoldOut js-select-date" data-schedule="273948" data-scheduleDate="Wednesday January 1, 2020 - 12:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273949" class=" ShowTooltip SoldOut js-select-date" data-schedule="273949" data-scheduleDate="Wednesday January 1, 2020 - 1:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273950" class=" ShowTooltip SoldOut js-select-date" data-schedule="273950" data-scheduleDate="Wednesday January 1, 2020 - 1:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273951" class=" ShowTooltip SoldOut js-select-date" data-schedule="273951" data-scheduleDate="Wednesday January 1, 2020 - 1:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273952" class=" ShowTooltip SoldOut js-select-date" data-schedule="273952" data-scheduleDate="Wednesday January 1, 2020 - 1:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273953" class=" ShowTooltip SoldOut js-select-date" data-schedule="273953" data-scheduleDate="Wednesday January 1, 2020 - 2:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273954" class=" ShowTooltip SoldOut js-select-date" data-schedule="273954" data-scheduleDate="Wednesday January 1, 2020 - 2:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273955" class=" ShowTooltip SoldOut js-select-date" data-schedule="273955" data-scheduleDate="Wednesday January 1, 2020 - 2:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273956" class=" ShowTooltip SoldOut js-select-date" data-schedule="273956" data-scheduleDate="Wednesday January 1, 2020 - 2:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273957" class=" ShowTooltip SoldOut js-select-date" data-schedule="273957" data-scheduleDate="Wednesday January 1, 2020 - 3:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281199" class=" ShowTooltip SoldOut js-select-date" data-schedule="281199" data-scheduleDate="Wednesday January 1, 2020 - 3:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281200" class=" ShowTooltip SoldOut js-select-date" data-schedule="281200" data-scheduleDate="Wednesday January 1, 2020 - 3:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281294" class=" ShowTooltip SoldOut js-select-date" data-schedule="281294" data-scheduleDate="Wednesday January 1, 2020 - 3:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281295" class=" ShowTooltip SoldOut js-select-date" data-schedule="281295" data-scheduleDate="Wednesday January 1, 2020 - 4:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281296" class=" ShowTooltip SoldOut js-select-date" data-schedule="281296" data-scheduleDate="Wednesday January 1, 2020 - 4:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281297" class=" ShowTooltip SoldOut js-select-date" data-schedule="281297" data-scheduleDate="Wednesday January 1, 2020 - 4:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288777" class=" ShowTooltip SoldOut js-select-date" data-schedule="288777" data-scheduleDate="Wednesday January 1, 2020 - 4:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288778" class=" ShowTooltip SoldOut js-select-date" data-schedule="288778" data-scheduleDate="Wednesday January 1, 2020 - 5:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288779" class=" ShowTooltip SoldOut js-select-date" data-schedule="288779" data-scheduleDate="Wednesday January 1, 2020 - 5:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288780" class=" ShowTooltip SoldOut js-select-date" data-schedule="288780" data-scheduleDate="Wednesday January 1, 2020 - 5:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288781" class=" ShowTooltip SoldOut js-select-date" data-schedule="288781" data-scheduleDate="Wednesday January 1, 2020 - 5:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288782" class=" ShowTooltip SoldOut js-select-date" data-schedule="288782" data-scheduleDate="Wednesday January 1, 2020 - 6:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288783" class=" ShowTooltip SoldOut js-select-date" data-schedule="288783" data-scheduleDate="Wednesday January 1, 2020 - 6:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288784" class=" ShowTooltip SoldOut js-select-date" data-schedule="288784" data-scheduleDate="Wednesday January 1, 2020 - 6:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:30 PM
+                                </span>
+                            </p>
+                       
+                    <p class="more"  style="display:none;"  data-date="January 1, 2020">
+                        <a href="/DateSelection.aspx?item=2006&v=Day&day=1&month=1&year=2020" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=1&day=1&v=Day'); return false;">See All Available</a>
+                        <span class="schedule-details" style="display: none;">
+                            View all available times for Wednesday January 1
+                        </span>
+                    </p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date OtherMonth" id="Thursday January 2">
+                         2
+                    </div>
+                    
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280048" class=" ShowTooltip SoldOut js-select-date" data-schedule="280048" data-scheduleDate="Thursday January 2, 2020 - 9:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280049" class=" ShowTooltip SoldOut js-select-date" data-schedule="280049" data-scheduleDate="Thursday January 2, 2020 - 9:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280050" class=" ShowTooltip SoldOut js-select-date" data-schedule="280050" data-scheduleDate="Thursday January 2, 2020 - 9:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280051" class=" ShowTooltip SoldOut js-select-date" data-schedule="280051" data-scheduleDate="Thursday January 2, 2020 - 9:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273958" class=" ShowTooltip SoldOut js-select-date" data-schedule="273958" data-scheduleDate="Thursday January 2, 2020 - 10:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273959" class=" ShowTooltip SoldOut js-select-date" data-schedule="273959" data-scheduleDate="Thursday January 2, 2020 - 10:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273960" class=" ShowTooltip SoldOut js-select-date" data-schedule="273960" data-scheduleDate="Thursday January 2, 2020 - 10:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273961" class=" ShowTooltip SoldOut js-select-date" data-schedule="273961" data-scheduleDate="Thursday January 2, 2020 - 10:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273962" class=" ShowTooltip SoldOut js-select-date" data-schedule="273962" data-scheduleDate="Thursday January 2, 2020 - 11:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273963" class=" ShowTooltip SoldOut js-select-date" data-schedule="273963" data-scheduleDate="Thursday January 2, 2020 - 11:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273964" class=" ShowTooltip SoldOut js-select-date" data-schedule="273964" data-scheduleDate="Thursday January 2, 2020 - 11:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273965" class=" ShowTooltip SoldOut js-select-date" data-schedule="273965" data-scheduleDate="Thursday January 2, 2020 - 11:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273966" class=" ShowTooltip SoldOut js-select-date" data-schedule="273966" data-scheduleDate="Thursday January 2, 2020 - 12:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273967" class=" ShowTooltip SoldOut js-select-date" data-schedule="273967" data-scheduleDate="Thursday January 2, 2020 - 12:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273968" class=" ShowTooltip SoldOut js-select-date" data-schedule="273968" data-scheduleDate="Thursday January 2, 2020 - 12:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273969" class=" ShowTooltip SoldOut js-select-date" data-schedule="273969" data-scheduleDate="Thursday January 2, 2020 - 12:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273970" class=" ShowTooltip SoldOut js-select-date" data-schedule="273970" data-scheduleDate="Thursday January 2, 2020 - 1:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273971" class=" ShowTooltip SoldOut js-select-date" data-schedule="273971" data-scheduleDate="Thursday January 2, 2020 - 1:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273972" class=" ShowTooltip SoldOut js-select-date" data-schedule="273972" data-scheduleDate="Thursday January 2, 2020 - 1:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273973" class=" ShowTooltip SoldOut js-select-date" data-schedule="273973" data-scheduleDate="Thursday January 2, 2020 - 1:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273974" class=" ShowTooltip SoldOut js-select-date" data-schedule="273974" data-scheduleDate="Thursday January 2, 2020 - 2:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273975" class=" ShowTooltip SoldOut js-select-date" data-schedule="273975" data-scheduleDate="Thursday January 2, 2020 - 2:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273976" class=" ShowTooltip SoldOut js-select-date" data-schedule="273976" data-scheduleDate="Thursday January 2, 2020 - 2:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273977" class=" ShowTooltip SoldOut js-select-date" data-schedule="273977" data-scheduleDate="Thursday January 2, 2020 - 2:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=273978" class=" ShowTooltip SoldOut js-select-date" data-schedule="273978" data-scheduleDate="Thursday January 2, 2020 - 3:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281201" class=" ShowTooltip SoldOut js-select-date" data-schedule="281201" data-scheduleDate="Thursday January 2, 2020 - 3:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281202" class=" ShowTooltip SoldOut js-select-date" data-schedule="281202" data-scheduleDate="Thursday January 2, 2020 - 3:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281298" class=" ShowTooltip SoldOut js-select-date" data-schedule="281298" data-scheduleDate="Thursday January 2, 2020 - 3:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281299" class=" ShowTooltip SoldOut js-select-date" data-schedule="281299" data-scheduleDate="Thursday January 2, 2020 - 4:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281300" class=" ShowTooltip SoldOut js-select-date" data-schedule="281300" data-scheduleDate="Thursday January 2, 2020 - 4:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281301" class=" ShowTooltip SoldOut js-select-date" data-schedule="281301" data-scheduleDate="Thursday January 2, 2020 - 4:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288792" class=" ShowTooltip SoldOut js-select-date" data-schedule="288792" data-scheduleDate="Thursday January 2, 2020 - 4:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288794" class=" ShowTooltip SoldOut js-select-date" data-schedule="288794" data-scheduleDate="Thursday January 2, 2020 - 5:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288796" class=" ShowTooltip SoldOut js-select-date" data-schedule="288796" data-scheduleDate="Thursday January 2, 2020 - 5:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288798" class=" ShowTooltip SoldOut js-select-date" data-schedule="288798" data-scheduleDate="Thursday January 2, 2020 - 5:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288800" class=" ShowTooltip SoldOut js-select-date" data-schedule="288800" data-scheduleDate="Thursday January 2, 2020 - 5:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288802" class=" ShowTooltip SoldOut js-select-date" data-schedule="288802" data-scheduleDate="Thursday January 2, 2020 - 6:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288803" class=" ShowTooltip SoldOut js-select-date" data-schedule="288803" data-scheduleDate="Thursday January 2, 2020 - 6:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288805" class=" ShowTooltip SoldOut js-select-date" data-schedule="288805" data-scheduleDate="Thursday January 2, 2020 - 6:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:30 PM
+                                </span>
+                            </p>
+                       
+                    <p class="more"  style="display:none;"  data-date="January 2, 2020">
+                        <a href="/DateSelection.aspx?item=2006&v=Day&day=2&month=1&year=2020" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=1&day=2&v=Day'); return false;">See All Available</a>
+                        <span class="schedule-details" style="display: none;">
+                            View all available times for Thursday January 2
+                        </span>
+                    </p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date OtherMonth" id="Friday January 3">
+                         3
+                    </div>
+                    
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280052" class=" ShowTooltip SoldOut js-select-date" data-schedule="280052" data-scheduleDate="Friday January 3, 2020 - 9:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280053" class=" ShowTooltip SoldOut js-select-date" data-schedule="280053" data-scheduleDate="Friday January 3, 2020 - 9:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280054" class=" ShowTooltip SoldOut js-select-date" data-schedule="280054" data-scheduleDate="Friday January 3, 2020 - 9:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280055" class=" ShowTooltip SoldOut js-select-date" data-schedule="280055" data-scheduleDate="Friday January 3, 2020 - 9:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275297" class=" ShowTooltip SoldOut js-select-date" data-schedule="275297" data-scheduleDate="Friday January 3, 2020 - 10:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275298" class=" ShowTooltip SoldOut js-select-date" data-schedule="275298" data-scheduleDate="Friday January 3, 2020 - 10:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275299" class=" ShowTooltip SoldOut js-select-date" data-schedule="275299" data-scheduleDate="Friday January 3, 2020 - 10:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275300" class=" ShowTooltip SoldOut js-select-date" data-schedule="275300" data-scheduleDate="Friday January 3, 2020 - 10:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275301" class=" ShowTooltip SoldOut js-select-date" data-schedule="275301" data-scheduleDate="Friday January 3, 2020 - 11:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275302" class=" ShowTooltip SoldOut js-select-date" data-schedule="275302" data-scheduleDate="Friday January 3, 2020 - 11:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275303" class=" ShowTooltip SoldOut js-select-date" data-schedule="275303" data-scheduleDate="Friday January 3, 2020 - 11:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275304" class=" ShowTooltip SoldOut js-select-date" data-schedule="275304" data-scheduleDate="Friday January 3, 2020 - 11:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275305" class=" ShowTooltip SoldOut js-select-date" data-schedule="275305" data-scheduleDate="Friday January 3, 2020 - 12:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275306" class=" ShowTooltip SoldOut js-select-date" data-schedule="275306" data-scheduleDate="Friday January 3, 2020 - 12:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275307" class=" ShowTooltip SoldOut js-select-date" data-schedule="275307" data-scheduleDate="Friday January 3, 2020 - 12:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275308" class=" ShowTooltip SoldOut js-select-date" data-schedule="275308" data-scheduleDate="Friday January 3, 2020 - 12:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275309" class=" ShowTooltip SoldOut js-select-date" data-schedule="275309" data-scheduleDate="Friday January 3, 2020 - 1:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275310" class=" ShowTooltip SoldOut js-select-date" data-schedule="275310" data-scheduleDate="Friday January 3, 2020 - 1:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275311" class=" ShowTooltip SoldOut js-select-date" data-schedule="275311" data-scheduleDate="Friday January 3, 2020 - 1:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275312" class=" ShowTooltip SoldOut js-select-date" data-schedule="275312" data-scheduleDate="Friday January 3, 2020 - 1:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275313" class=" ShowTooltip SoldOut js-select-date" data-schedule="275313" data-scheduleDate="Friday January 3, 2020 - 2:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275314" class=" ShowTooltip SoldOut js-select-date" data-schedule="275314" data-scheduleDate="Friday January 3, 2020 - 2:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275315" class=" ShowTooltip SoldOut js-select-date" data-schedule="275315" data-scheduleDate="Friday January 3, 2020 - 2:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275316" class=" ShowTooltip SoldOut js-select-date" data-schedule="275316" data-scheduleDate="Friday January 3, 2020 - 2:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275317" class=" ShowTooltip SoldOut js-select-date" data-schedule="275317" data-scheduleDate="Friday January 3, 2020 - 3:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275318" class=" ShowTooltip SoldOut js-select-date" data-schedule="275318" data-scheduleDate="Friday January 3, 2020 - 3:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275319" class=" ShowTooltip SoldOut js-select-date" data-schedule="275319" data-scheduleDate="Friday January 3, 2020 - 3:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275320" class=" ShowTooltip SoldOut js-select-date" data-schedule="275320" data-scheduleDate="Friday January 3, 2020 - 3:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275321" class=" ShowTooltip SoldOut js-select-date" data-schedule="275321" data-scheduleDate="Friday January 3, 2020 - 4:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275322" class=" ShowTooltip SoldOut js-select-date" data-schedule="275322" data-scheduleDate="Friday January 3, 2020 - 4:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275323" class=" ShowTooltip SoldOut js-select-date" data-schedule="275323" data-scheduleDate="Friday January 3, 2020 - 4:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275324" class=" ShowTooltip SoldOut js-select-date" data-schedule="275324" data-scheduleDate="Friday January 3, 2020 - 4:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275325" class=" ShowTooltip SoldOut js-select-date" data-schedule="275325" data-scheduleDate="Friday January 3, 2020 - 5:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275326" class=" ShowTooltip SoldOut js-select-date" data-schedule="275326" data-scheduleDate="Friday January 3, 2020 - 5:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275327" class=" ShowTooltip SoldOut js-select-date" data-schedule="275327" data-scheduleDate="Friday January 3, 2020 - 5:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275328" class=" ShowTooltip SoldOut js-select-date" data-schedule="275328" data-scheduleDate="Friday January 3, 2020 - 5:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275329" class=" ShowTooltip SoldOut js-select-date" data-schedule="275329" data-scheduleDate="Friday January 3, 2020 - 6:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281302" class=" ShowTooltip SoldOut js-select-date" data-schedule="281302" data-scheduleDate="Friday January 3, 2020 - 6:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281303" class=" ShowTooltip SoldOut js-select-date" data-schedule="281303" data-scheduleDate="Friday January 3, 2020 - 6:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288810" class=" ShowTooltip SoldOut js-select-date" data-schedule="288810" data-scheduleDate="Friday January 3, 2020 - 6:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288811" class=" ShowTooltip SoldOut js-select-date" data-schedule="288811" data-scheduleDate="Friday January 3, 2020 - 7:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288812" class=" ShowTooltip SoldOut js-select-date" data-schedule="288812" data-scheduleDate="Friday January 3, 2020 - 7:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288813" class=" ShowTooltip SoldOut js-select-date" data-schedule="288813" data-scheduleDate="Friday January 3, 2020 - 7:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288814" class=" ShowTooltip SoldOut js-select-date" data-schedule="288814" data-scheduleDate="Friday January 3, 2020 - 7:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288815" class=" ShowTooltip SoldOut js-select-date" data-schedule="288815" data-scheduleDate="Friday January 3, 2020 - 8:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288816" class=" ShowTooltip SoldOut js-select-date" data-schedule="288816" data-scheduleDate="Friday January 3, 2020 - 8:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288817" class=" ShowTooltip SoldOut js-select-date" data-schedule="288817" data-scheduleDate="Friday January 3, 2020 - 8:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:30 PM
+                                </span>
+                            </p>
+                       
+                    <p class="more"  style="display:none;"  data-date="January 3, 2020">
+                        <a href="/DateSelection.aspx?item=2006&v=Day&day=3&month=1&year=2020" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=1&day=3&v=Day'); return false;">See All Available</a>
+                        <span class="schedule-details" style="display: none;">
+                            View all available times for Friday January 3
+                        </span>
+                    </p>
+                    
+                    
+                </div><div class="Day">
+                    <div class="Date OtherMonth" id="Saturday January 4">
+                         4
+                    </div>
+                    
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280364" class=" ShowTooltip SoldOut js-select-date" data-schedule="280364" data-scheduleDate="Saturday January 4, 2020 - 9:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280365" class=" ShowTooltip SoldOut js-select-date" data-schedule="280365" data-scheduleDate="Saturday January 4, 2020 - 9:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280366" class=" ShowTooltip SoldOut js-select-date" data-schedule="280366" data-scheduleDate="Saturday January 4, 2020 - 9:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280367" class=" ShowTooltip SoldOut js-select-date" data-schedule="280367" data-scheduleDate="Saturday January 4, 2020 - 9:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />9:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280869" class=" ShowTooltip SoldOut js-select-date" data-schedule="280869" data-scheduleDate="Saturday January 4, 2020 - 10:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280870" class=" ShowTooltip SoldOut js-select-date" data-schedule="280870" data-scheduleDate="Saturday January 4, 2020 - 10:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280871" class=" ShowTooltip SoldOut js-select-date" data-schedule="280871" data-scheduleDate="Saturday January 4, 2020 - 10:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280872" class=" ShowTooltip SoldOut js-select-date" data-schedule="280872" data-scheduleDate="Saturday January 4, 2020 - 10:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />10:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280873" class=" ShowTooltip SoldOut js-select-date" data-schedule="280873" data-scheduleDate="Saturday January 4, 2020 - 11:00 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:00 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280874" class=" ShowTooltip SoldOut js-select-date" data-schedule="280874" data-scheduleDate="Saturday January 4, 2020 - 11:15 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:15 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280875" class=" ShowTooltip SoldOut js-select-date" data-schedule="280875" data-scheduleDate="Saturday January 4, 2020 - 11:30 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:30 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280876" class=" ShowTooltip SoldOut js-select-date" data-schedule="280876" data-scheduleDate="Saturday January 4, 2020 - 11:45 AM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />11:45 AM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280877" class=" ShowTooltip SoldOut js-select-date" data-schedule="280877" data-scheduleDate="Saturday January 4, 2020 - 12:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280878" class=" ShowTooltip SoldOut js-select-date" data-schedule="280878" data-scheduleDate="Saturday January 4, 2020 - 12:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280879" class=" ShowTooltip SoldOut js-select-date" data-schedule="280879" data-scheduleDate="Saturday January 4, 2020 - 12:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280880" class=" ShowTooltip SoldOut js-select-date" data-schedule="280880" data-scheduleDate="Saturday January 4, 2020 - 12:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />12:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280881" class=" ShowTooltip SoldOut js-select-date" data-schedule="280881" data-scheduleDate="Saturday January 4, 2020 - 1:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280882" class=" ShowTooltip SoldOut js-select-date" data-schedule="280882" data-scheduleDate="Saturday January 4, 2020 - 1:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280883" class=" ShowTooltip SoldOut js-select-date" data-schedule="280883" data-scheduleDate="Saturday January 4, 2020 - 1:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280884" class=" ShowTooltip SoldOut js-select-date" data-schedule="280884" data-scheduleDate="Saturday January 4, 2020 - 1:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />1:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280885" class=" ShowTooltip SoldOut js-select-date" data-schedule="280885" data-scheduleDate="Saturday January 4, 2020 - 2:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280886" class=" ShowTooltip SoldOut js-select-date" data-schedule="280886" data-scheduleDate="Saturday January 4, 2020 - 2:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280887" class=" ShowTooltip SoldOut js-select-date" data-schedule="280887" data-scheduleDate="Saturday January 4, 2020 - 2:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=274775" class=" ShowTooltip SoldOut js-select-date" data-schedule="274775" data-scheduleDate="Saturday January 4, 2020 - 2:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />2:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=274776" class=" ShowTooltip SoldOut js-select-date" data-schedule="274776" data-scheduleDate="Saturday January 4, 2020 - 3:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=275464" class=" ShowTooltip SoldOut js-select-date" data-schedule="275464" data-scheduleDate="Saturday January 4, 2020 - 3:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=280891" class=" ShowTooltip SoldOut js-select-date" data-schedule="280891" data-scheduleDate="Saturday January 4, 2020 - 3:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281304" class=" ShowTooltip SoldOut js-select-date" data-schedule="281304" data-scheduleDate="Saturday January 4, 2020 - 3:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />3:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281305" class=" ShowTooltip SoldOut js-select-date" data-schedule="281305" data-scheduleDate="Saturday January 4, 2020 - 4:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281307" class=" ShowTooltip SoldOut js-select-date" data-schedule="281307" data-scheduleDate="Saturday January 4, 2020 - 4:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=281306" class=" ShowTooltip SoldOut js-select-date" data-schedule="281306" data-scheduleDate="Saturday January 4, 2020 - 4:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288818" class=" ShowTooltip SoldOut js-select-date" data-schedule="288818" data-scheduleDate="Saturday January 4, 2020 - 4:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />4:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288819" class=" ShowTooltip SoldOut js-select-date" data-schedule="288819" data-scheduleDate="Saturday January 4, 2020 - 5:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288820" class=" ShowTooltip SoldOut js-select-date" data-schedule="288820" data-scheduleDate="Saturday January 4, 2020 - 5:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288821" class=" ShowTooltip SoldOut js-select-date" data-schedule="288821" data-scheduleDate="Saturday January 4, 2020 - 5:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288822" class=" ShowTooltip SoldOut js-select-date" data-schedule="288822" data-scheduleDate="Saturday January 4, 2020 - 5:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />5:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288823" class=" ShowTooltip SoldOut js-select-date" data-schedule="288823" data-scheduleDate="Saturday January 4, 2020 - 6:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288824" class=" ShowTooltip SoldOut js-select-date" data-schedule="288824" data-scheduleDate="Saturday January 4, 2020 - 6:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288825" class=" ShowTooltip SoldOut js-select-date" data-schedule="288825" data-scheduleDate="Saturday January 4, 2020 - 6:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288826" class=" ShowTooltip SoldOut js-select-date" data-schedule="288826" data-scheduleDate="Saturday January 4, 2020 - 6:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />6:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288827" class=" ShowTooltip SoldOut js-select-date" data-schedule="288827" data-scheduleDate="Saturday January 4, 2020 - 7:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288828" class=" ShowTooltip SoldOut js-select-date" data-schedule="288828" data-scheduleDate="Saturday January 4, 2020 - 7:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288829" class=" ShowTooltip SoldOut js-select-date" data-schedule="288829" data-scheduleDate="Saturday January 4, 2020 - 7:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:30 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288830" class=" ShowTooltip SoldOut js-select-date" data-schedule="288830" data-scheduleDate="Saturday January 4, 2020 - 7:45 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />7:45 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288831" class=" ShowTooltip SoldOut js-select-date" data-schedule="288831" data-scheduleDate="Saturday January 4, 2020 - 8:00 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:00 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288832" class=" ShowTooltip SoldOut js-select-date" data-schedule="288832" data-scheduleDate="Saturday January 4, 2020 - 8:15 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:15 PM
+                                </span>
+                            </p>
+                       
+                            <p class="js-timeslot">
+                                <a href="/Selection.aspx?sch=288833" class=" ShowTooltip SoldOut js-select-date" data-schedule="288833" data-scheduleDate="Saturday January 4, 2020 - 8:30 PM">
+                                    Sold Out
+                                </a>
+                                <span class="schedule-details" style="display: none;">
+                                    0 Remaining<br />8:30 PM
+                                </span>
+                            </p>
+                       
+                    <p class="more"  style="display:none;"  data-date="January 4, 2020">
+                        <a href="/DateSelection.aspx?item=2006&v=Day&day=4&month=1&year=2020" onclick="$('#CalendarSelection').load('/atms/uc/services/Calendar.aspx?item=2006&year=2020&month=1&day=4&v=Day'); return false;">See All Available</a>
+                        <span class="schedule-details" style="display: none;">
+                            View all available times for Saturday January 4
+                        </span>
+                    </p>
+                    
+                    
+                </div>
+                <div class="clearLeft"></div>
+            </div>
+            
+            <div class="DaySeperator"></div><div class="DaySeperator"></div><div class="DaySeperator"></div><div class="DaySeperator"></div><div class="DaySeperator"></div><div class="DaySeperator"></div>
+        </div>
+    </div>
+<div style="clear: both"></div></div> 
+  
+
+  <div id="map-preview"></div>
+</div>
+  
+	</div>
+
+
+
+    
+
+    <div style="clear:both"></div>
+    
+    <div id="vantixFooter">
+        Online Sales powered by <a href="http://vantixsystems.com/">Vantix Systems Inc</a>
+        <!-- v3.4.1.0 -->
+    </div>
+    
+</div>
+
+
+
+
+
+  </div>
+      </section>
+    </section>
+    <footer class="site-foot group">
+      <div class="foot-container">
+        <aside class="col-two right footer-scfd">
+          <a href="http://scfd.org"><img src="https://atms.azureedge.net/atmsonline/dam/v3.2/client/img/scfd_h.png" alt="Scientific & Cultural Facilities District (SCFD)"></a>
+        </aside>
+      </div>
+    </footer>
+  </div>
+
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NMRP9Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMRP9Z');</script>
+<!-- End Google Tag Manager -->
+
+
+<script src="client/scripts/customizations.js?v=1"></script>
+
+</body>
+</html>
