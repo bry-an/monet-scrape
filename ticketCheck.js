@@ -5,13 +5,13 @@ require('dotenv').config()
 const user = process.env.AWS_USER
 const pass = process.env.AWS_PASS
 
+console.log("Ticket check service initialized.")
 async function email(msg) {
   // Generate test SMTP service account from ethereal.email
   // Only needed if you don't have a real mail account for testing
 //   let testAccount = await nodemailer.createTestAccount();
 
   // create reusable transporter object using the default SMTP transport
-  console.log(1)
   let transporter = nodemailer.createTransport({
     host: 'email-smtp.us-east-1.amazonaws.com',
     port: 465,
@@ -25,7 +25,6 @@ async function email(msg) {
     }
   });
 
-  console.log(2)
   // send mail with defined transport object
   let info = await transporter.sendMail({
     from: '"Brace Gudnis" <bryan@bryanyunis.com>', // sender address
