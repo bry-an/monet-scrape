@@ -5,7 +5,7 @@ require('dotenv').config()
 const user = process.env.AWS_USER
 const pass = process.env.AWS_PASS
 
-async function email() {
+async function email(msg) {
   // Generate test SMTP service account from ethereal.email
   // Only needed if you don't have a real mail account for testing
 //   let testAccount = await nodemailer.createTestAccount();
@@ -31,7 +31,7 @@ async function email() {
     from: '"Brace Gudnis" <bryan@bryanyunis.com>', // sender address
     to: "bryan@bryanyunis.com", // list of receivers
     subject: "Tickets Available", // Subject line
-    text: "There is a ticket available!", // plain text body
+    text: `There is a ticket available! Here's information on it: ${msg}`, // plain text body
   });
 
   console.log("Message sent: %s", info.messageId);
@@ -47,25 +47,27 @@ setInterval(async () => {
     const page = await browser.newPage();
     await page.goto('https://tickets.denverartmuseum.org/DateSelection.aspx?item=2006');
 
-    const boletas = await page.evaluate(() => {
+    const ticketsAvailable = await page.evaluate(() => {
         const desiredSchedules = ['288831', '288832', '288833']
         const listings = Array.from(document.querySelectorAll('.js-timeslot > a'))
-        const html=[]
         let tickets = false
+        let foundTicketInfo = ''
         listings.forEach(item => {
             const scheduleId = item.getAttribute('data-schedule');
             if (desiredSchedules.includes(scheduleId)) {
                 if (!item.innerHTML.includes('Sold Out')) {
                     tickets = true;
+                    foundTicketInfo = item.innerHTML
                 }
             }
         })
         return tickets
     })
-    if (boletas === true) {
-        email().catch(console.error)
+    if (ticketsAvailable === true) {
+        email(positiveSchedule).catch(console.error)
+        console.log('There\'s a ticket available! An email has been sent. 😃')
     } else {
-        console.log('No tickets available ☹️')
+        console.log('No tickets available ☹️. Last checked at ', new Date())
     }
     await browser.close();
   }, 30 * 1000)
